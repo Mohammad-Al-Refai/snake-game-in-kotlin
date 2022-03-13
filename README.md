@@ -1,7 +1,7 @@
 # Snake Game 
-<img src="./screenshots/Screenshot from 2022-03-13 20-00-13.png" width=1000px height=600px >
+<img src="./screenshots/Screenshot from 2022-03-13 20-00-13.png"  >
 
-<img src="./screenshots/Screenshot from 2022-03-13 20-00-31.png" width=1000px height=600px >
+<img src="./screenshots/Screenshot from 2022-03-13 20-00-31.png"  >
 
 ### Libraries
 
